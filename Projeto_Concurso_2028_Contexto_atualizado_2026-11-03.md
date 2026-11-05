@@ -1,7 +1,7 @@
 # Projeto Concurso 2028 — Contexto de continuidade
 
 > **Objetivo deste arquivo:** servir como contexto para uma nova conversa do ChatGPT, permitindo continuar o planejamento sem precisar reconstruir as decisões anteriores.  
-> **Última atualização:** 03/11/2026.
+> **Última atualização:** 04/11/2026.
 
 ## 1. Objetivo geral
 
@@ -50,23 +50,23 @@ Disponibilidade informada: **1h a 1h30 por dia**. O plano foi organizado em apro
 
 | Dia | Disciplina | Duração |
 |---|---|---:|
-| Segunda | Direito Administrativo | 90 min |
-| Terça | Direito Constitucional | 90 min |
-| Quarta | Português | 60 min |
-| Quinta | Direito Administrativo | 60 min |
-| Sexta | Direito Constitucional | 60 min |
-| Sábado | Engenharia de Software + Banco de Dados | 90 min |
-| Domingo | Segurança da Informação + Redes + revisão | 90 min |
+| Quarta | Direito Administrativo | 90 min |
+| Quinta | Direito Constitucional | 90 min |
+| Sexta | Português | 60 min |
+| Sábado | Direito Administrativo | 60 min |
+| Domingo | Direito Constitucional | 60 min |
+| Segunda | Engenharia de Software + Banco de Dados | 90 min |
+| Terça | Segurança da Informação + Redes + revisão | 90 min |
 | **Total** |  | **9 horas** |
 
-O ciclo é flexível: se um dia só permitir 60 minutos, não é necessário compensar imediatamente. Retomar a sequência na próxima sessão.
+O ciclo começa na quarta-feira, dia da primeira aula formal em 04/11/2026. A ordem segue a sequência semanal da planilha, avançando de quarta a terça-feira. Se um dia só permitir 60 minutos, não é necessário compensar imediatamente; retomar a sequência na próxima sessão.
 
 ### Distribuição aproximada
 - Direito Administrativo: 2h30/semana.
 - Direito Constitucional: 2h30/semana.
 - Português: 1h/semana.
 - TI: 3h/semana, distribuídas entre Engenharia de Software, Banco de Dados, Segurança e Redes.
-- Revisão: incluída na sessão de domingo; pode ser ajustada conforme a evolução.
+- Revisão: incluída na sessão de terça-feira; pode ser ajustada conforme a evolução.
 
 ## 5. Matérias-base do projeto
 
@@ -107,6 +107,7 @@ Cada aula deve seguir, preferencialmente, esta estrutura:
 8. Indicação da próxima revisão e próxima aula.
 
 O usuário pode interromper a aula para tirar dúvidas e pedir explicações adicionais. A dificuldade deve aumentar gradualmente.
+Corrigir a escrita em português do usuário sempre que for útil, de forma gentil e sem desviar do assunto principal.
 
 ### Confiabilidade do material
 - Para legislação, usar texto oficial e atualizado (Constituição, leis e normas nos portais oficiais).
@@ -157,7 +158,7 @@ O diagnóstico inicial de **40 questões** foi aplicado e concluído em 03/11/20
 - O ciclo semanal de 9 horas permanece como estrutura inicial. As prioridades de revisão identificadas devem ser incorporadas às revisões semanais, sem retirar a prioridade dada às disciplinas de Direito.
 - O resultado de 100% em Constitucional e TI deve ser interpretado com cautela: o diagnóstico cobriu apenas conceitos introdutórios e não substitui a avaliação por questões mais aprofundadas e específicas de concursos.
 
-A próxima atividade é iniciar a primeira aula formal: **Direito Administrativo — princípios da Administração Pública**, começando do básico.
+A primeira aula formal de **Direito Administrativo — introdução e princípios da Administração Pública** foi concluída em 04/11/2026. O usuário respondeu aos quatro exercícios, recebeu correção comentada e informou que não tinha dúvidas pendentes. A próxima aula preparada é **Direito Constitucional — introdução, fundamentos da República e objetivos fundamentais**.
 
 ## 9. Fases indicativas dos 24 meses
 
@@ -197,16 +198,18 @@ Ao fim de cada semana, avaliar regularidade, horas, questões e dificuldades. A 
 - Planilha definida como ferramenta de acompanhamento.
 - Método geral de estudo e revisão definido.
 
-**Pendente para concluir a Etapa 1:**
+**Estado das atividades:**
 1. **Diagnóstico inicial:** concluído — 40 questões respondidas, com 34 acertos (85%).
 2. **Registro na planilha:** concluído pelo usuário.
 3. **Ajuste do ciclo:** manter o ciclo semanal atual de 9 horas e incorporar os pontos fracos identificados às revisões; reavaliar a distribuição após algumas semanas de estudo e novos resultados.
-4. **Primeira aula formal:** pendente — Direito Administrativo: princípios da Administração Pública, começando do básico.
+4. **Primeira aula formal:** concluída em 04/11/2026 — Direito Administrativo: introdução, estrutura da Administração Pública e princípios. Os quatro exercícios foram respondidos e corrigidos; duração registrada na planilha: 90 minutos.
+5. **Próxima aula:** preparada — Direito Constitucional: introdução à CF/88, fundamentos da República (art. 1º), Poderes da União (art. 2º) e objetivos fundamentais (art. 3º). O estudo ainda está pendente.
 
 **Pontos de atenção identificados no diagnóstico:**
 - Direito Administrativo: Administração direta/indireta e poderes administrativos (hierárquico x regulamentar).
 - Português: pontuação, ortografia e agente da passiva.
+- Na Aula 1, revisar a diferença entre fundamentos (art. 1º), objetivos (art. 3º) e princípios administrativos (art. 37), além de distinguir legalidade administrativa de lei em sentido formal.
 
 ## 12. Instrução para a próxima conversa
 
-Ao receber este arquivo em uma nova conversa, retome o **Projeto Concurso 2028** a partir do estado descrito aqui. Não peça novamente informações já registradas. Primeiro, confirme brevemente que recuperou o contexto. O diagnóstico inicial já foi concluído (34/40, 85%) e registrado na planilha; portanto, não o reaplique. Retome pelos pontos de revisão identificados e avance para a primeira aula formal de Direito Administrativo — princípios da Administração Pública. Mantenha a preparação gradual, didática e orientada a concursos de TI, com prioridade para Direito no início.
+Ao receber este arquivo em uma nova conversa, retome o **Projeto Concurso 2028** a partir do estado descrito aqui. Não peça novamente informações já registradas. Primeiro, confirme brevemente que recuperou o contexto. O diagnóstico inicial já foi concluído (34/40, 85%) e registrado na planilha; portanto, não o reaplique. A primeira aula formal de Direito Administrativo foi concluída em 04/11/2026, com quatro exercícios respondidos e corrigidos. A Aula 2 de Direito Constitucional está preparada em `aulas/AULA_02_Direito_Constitucional_Introducao.md`, mas ainda não foi estudada. Retome com essa aula e com as revisões previstas, mantendo a preparação gradual, didática e orientada a concursos de TI, com prioridade para Direito no início. Corrija a escrita em português do usuário quando for útil, gentilmente e sem desviar do assunto principal.
