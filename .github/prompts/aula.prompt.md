@@ -2,7 +2,7 @@
 description: Gera uma aula formal (teoria, questões, correção) e salva em aulas/
 agent: agent
 ---
-Leia o arquivo de contexto mais recente na raiz e as instruções do repositório.
+Leia `Projeto_Concurso_2028_Contexto_atualizado.md` na raiz e as instruções do repositório.
 
 Tema da aula: ${input:tema:Disciplina e assunto, ex.: Direito Administrativo — princípios da Administração Pública}
 

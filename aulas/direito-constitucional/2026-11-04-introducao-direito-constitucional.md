@@ -4,7 +4,7 @@
 **Data de preparação:** 2026-11-04  
 **Duração prevista:** 90 minutos  
 **Tema:** Constituição Federal, fundamentos da República e objetivos fundamentais  
-**Status:** Material preparado; estudo pendente
+**Status:** Estudada em 2026-11-05; exercícios 6/6; revisão realizada em 2026-11-06 (10 min)
 
 ---
 
@@ -235,9 +235,11 @@ D. O art. 2º determina que os Poderes são subordinados entre si.
 
 ## 13. Próximos passos
 
-- [ ] Estudar a aula e responder às questões antes de consultar o gabarito.
-- [ ] Anotar dúvidas ou conceitos que tenham causado confusão.
-- [ ] Fazer uma revisão breve dos fundamentos, dos Poderes e dos objetivos na próxima sessão.
+- [x] Estudar a aula e responder às questões antes de consultar o gabarito.
+- [x] Revisar os fundamentos, os Poderes e os objetivos em 2026-11-06.
+- [x] Registrar 6 acertos em 6 questões; nenhum erro recorrente identificado.
+- [ ] Fazer a próxima revisão semanal até 2026-11-12.
+- [ ] Na revisão semanal, retomar também os princípios de Direito Administrativo e as respostas corrigidas da Aula 1.
 - [ ] Na revisão semanal, retomar também os princípios de Direito Administrativo e as respostas corrigidas da Aula 1.
 
 ## Fonte oficial

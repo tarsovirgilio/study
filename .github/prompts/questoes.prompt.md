@@ -2,7 +2,7 @@
 description: Gera questões de fixação no estilo de banca com correção comentada
 agent: agent
 ---
-Leia o arquivo de contexto mais recente na raiz.
+Leia `Projeto_Concurso_2028_Contexto_atualizado.md` na raiz.
 
 Disciplina/assunto: ${input:assunto}
 Quantidade: ${input:quantidade:10}

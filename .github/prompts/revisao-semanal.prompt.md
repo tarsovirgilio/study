@@ -2,7 +2,7 @@
 description: Faz a revisão semanal e sugere ajustes no ciclo
 agent: agent
 ---
-Leia o arquivo de contexto mais recente e a pasta `revisoes/`.
+Leia `Projeto_Concurso_2028_Contexto_atualizado.md` na raiz e a pasta `revisoes/`.
 
 Resultados da semana (horas, questões feitas/acertos por disciplina, dificuldades): ${input:resultados}
 

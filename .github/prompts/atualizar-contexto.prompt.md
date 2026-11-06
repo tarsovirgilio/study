@@ -1,9 +1,9 @@
 ---
-description: Cria nova versão datada do arquivo de contexto com o estado atual
+description: Atualiza o único arquivo de contexto com o estado atual
 agent: agent
 ---
-Leia o arquivo `Projeto_Concurso_2028_Contexto_atualizado_*.md` mais recente.
+Leia e atualize `Projeto_Concurso_2028_Contexto_atualizado.md` na raiz do repositório.
 
 Mudanças a incorporar: ${input:mudancas}
 
-Crie um novo arquivo `Projeto_Concurso_2028_Contexto_atualizado_<data de hoje AAAA-MM-DD>.md`, preservando a estrutura de seções numeradas e atualizando somente o necessário (data, resultados, estado atual, próxima ação, instrução para a próxima conversa). Não apague o arquivo anterior. Mostre um resumo do que mudou.
+Edite esse mesmo arquivo, preservando a estrutura de seções numeradas e atualizando somente o necessário (data, resultados, estado atual, próxima ação e instrução para a próxima conversa). Não crie cópias nem novos arquivos de contexto: o histórico das alterações é mantido pelo Git. Mostre um resumo do que mudou.

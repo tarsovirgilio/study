@@ -1,7 +1,7 @@
 # Projeto Concurso 2028 — Contexto de continuidade
 
-> **Objetivo deste arquivo:** servir como contexto para uma nova conversa do ChatGPT, permitindo continuar o planejamento sem precisar reconstruir as decisões anteriores.  
-> **Última atualização:** 04/11/2026.
+> **Objetivo deste arquivo:** servir como contexto para uma nova conversa do ChatGPT, permitindo continuar o planejamento sem precisar reconstruir as decisões anteriores. Este é o único arquivo de contexto atual; atualize-o diretamente e deixe o histórico para o Git.
+> **Última atualização:** 06/11/2026.
 
 ## 1. Objetivo geral
 
@@ -158,7 +158,7 @@ O diagnóstico inicial de **40 questões** foi aplicado e concluído em 03/11/20
 - O ciclo semanal de 9 horas permanece como estrutura inicial. As prioridades de revisão identificadas devem ser incorporadas às revisões semanais, sem retirar a prioridade dada às disciplinas de Direito.
 - O resultado de 100% em Constitucional e TI deve ser interpretado com cautela: o diagnóstico cobriu apenas conceitos introdutórios e não substitui a avaliação por questões mais aprofundadas e específicas de concursos.
 
-A primeira aula formal de **Direito Administrativo — introdução e princípios da Administração Pública** foi concluída em 04/11/2026. O usuário respondeu aos quatro exercícios, recebeu correção comentada e informou que não tinha dúvidas pendentes. A próxima aula preparada é **Direito Constitucional — introdução, fundamentos da República e objetivos fundamentais**.
+A primeira aula formal de **Direito Administrativo — introdução e princípios da Administração Pública** foi concluída em 04/11/2026. O usuário respondeu aos quatro exercícios, recebeu correção comentada e informou que não tinha dúvidas pendentes. A Aula 2 de **Direito Constitucional — introdução à CF/88, fundamentos da República, Poderes da União e objetivos fundamentais** foi concluída em 05/11/2026: 80 minutos de estudo e 6/6 questões corretas. A revisão foi realizada em 06/11/2026, por 10 minutos. Respeitando o ciclo semanal, a próxima sessão é **Língua Portuguesa — pontuação em orações subordinadas adjetivas**, preparada para sexta-feira, 06/11, com duração prevista de 60 minutos. A aula de **Direito Constitucional — direitos e garantias fundamentais** fica preparada para a próxima sessão de Constitucional, prevista para domingo, conforme o ciclo.
 
 ## 9. Fases indicativas dos 24 meses
 
@@ -203,7 +203,11 @@ Ao fim de cada semana, avaliar regularidade, horas, questões e dificuldades. A 
 2. **Registro na planilha:** concluído pelo usuário.
 3. **Ajuste do ciclo:** manter o ciclo semanal atual de 9 horas e incorporar os pontos fracos identificados às revisões; reavaliar a distribuição após algumas semanas de estudo e novos resultados.
 4. **Primeira aula formal:** concluída em 04/11/2026 — Direito Administrativo: introdução, estrutura da Administração Pública e princípios. Os quatro exercícios foram respondidos e corrigidos; duração registrada na planilha: 90 minutos.
-5. **Próxima aula:** preparada — Direito Constitucional: introdução à CF/88, fundamentos da República (art. 1º), Poderes da União (art. 2º) e objetivos fundamentais (art. 3º). O estudo ainda está pendente.
+5. **Aula 2 de Direito Constitucional:** concluída em 05/11/2026; 80 minutos de estudo, 6/6 questões corretas e nenhum erro recorrente identificado. Revisão dos arts. 1º, 2º e 3º concluída em 06/11/2026, por 10 minutos; próxima revisão prevista para 12/11/2026.
+6. **Próxima sessão — sexta-feira:** Língua Portuguesa: pontuação em orações subordinadas adjetivas restritivas e explicativas; aula preparada para 60 minutos, com foco em ponto fraco identificado no diagnóstico. O estudo ainda está pendente.
+7. **Próxima sessão de Constitucional — domingo:** aula preparada sobre direitos e garantias fundamentais, igualdade, privacidade e proteção de dados (art. 5º), com duração prevista de 60 minutos.
+
+**Padrão obrigatório para materiais de aula:** usar `aulas/<disciplina>/AAAA-MM-DD-<tema-em-kebab-case>.md`, conforme `aulas/README.md`. Não criar arquivos de aula na raiz de `aulas/`; antes de criar ou mover materiais, verificar e seguir a convenção, preservando conteúdo e corrigindo referências.
 
 **Pontos de atenção identificados no diagnóstico:**
 - Direito Administrativo: Administração direta/indireta e poderes administrativos (hierárquico x regulamentar).
@@ -212,4 +216,4 @@ Ao fim de cada semana, avaliar regularidade, horas, questões e dificuldades. A 
 
 ## 12. Instrução para a próxima conversa
 
-Ao receber este arquivo em uma nova conversa, retome o **Projeto Concurso 2028** a partir do estado descrito aqui. Não peça novamente informações já registradas. Primeiro, confirme brevemente que recuperou o contexto. O diagnóstico inicial já foi concluído (34/40, 85%) e registrado na planilha; portanto, não o reaplique. A primeira aula formal de Direito Administrativo foi concluída em 04/11/2026, com quatro exercícios respondidos e corrigidos. A Aula 2 de Direito Constitucional está preparada em `aulas/AULA_02_Direito_Constitucional_Introducao.md`, mas ainda não foi estudada. Retome com essa aula e com as revisões previstas, mantendo a preparação gradual, didática e orientada a concursos de TI, com prioridade para Direito no início. Corrija a escrita em português do usuário quando for útil, gentilmente e sem desviar do assunto principal.
+Ao receber este arquivo em uma nova conversa, retome o **Projeto Concurso 2028** a partir do estado descrito aqui. Não peça novamente informações já registradas. Primeiro, confirme brevemente que recuperou o contexto. O diagnóstico inicial já foi concluído (34/40, 85%) e registrado na planilha; portanto, não o reaplique. A primeira aula formal de Direito Administrativo foi concluída em 04/11/2026, com quatro exercícios respondidos e corrigidos. A Aula 2 de Direito Constitucional foi concluída em 05/11/2026, com 80 minutos de estudo e 6/6 questões corretas; sua revisão foi concluída em 06/11/2026. Respeite sempre a sequência do ciclo semanal: a próxima sessão é a de sexta-feira, Língua Portuguesa, com a aula preparada em `aulas/portugues/2026-11-06-pontuacao-oracoes-subordinadas-adjetivas.md`; a aula de Direitos e garantias fundamentais em `aulas/direito-constitucional/2026-11-06-direitos-e-garantias-fundamentais-introducao.md` fica para a próxima sessão de Constitucional, prevista para domingo. Siga rigorosamente o padrão `aulas/<disciplina>/AAAA-MM-DD-<tema-em-kebab-case>.md` descrito em `aulas/README.md`: confira a convenção antes de criar novos materiais, não crie aulas na raiz de `aulas/` e preserve o conteúdo ao mover arquivos existentes. Mantenha apenas este arquivo de contexto, atualizando-o diretamente quando o estado mudar; não crie versões datadas, pois o Git mantém o histórico. Mantenha a preparação gradual, didática e orientada a concursos de TI, com prioridade para Direito no início. Corrija a escrita em português do usuário quando for útil, gentilmente e sem desviar do assunto principal.
