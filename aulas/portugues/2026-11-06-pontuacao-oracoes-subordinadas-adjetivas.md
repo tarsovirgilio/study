@@ -4,7 +4,7 @@
 **Data de preparação:** 2026-11-06\
 **Duração prevista:** 60 minutos\
 **Tema:** Diferença de sentido e pontuação entre orações subordinadas adjetivas restritivas e explicativas\
-**Status:** Material preparado; estudo pendente
+**Status:** Aula concluída em 2026-11-06; 60 minutos de estudo e 5/5 questões respondidas corretamente
 
 ## 1. Objetivos
 
@@ -146,7 +146,7 @@ D. É uma oração coordenada sem relação com “biblioteca”.
 
 ## 11. Próximos passos
 
-- [ ] Estudar o material e responder às questões antes de consultar o gabarito.
+- [x] Estudar o material e responder às questões antes de consultar o gabarito.
 - [ ] Registrar tempo de estudo, questões e acertos na planilha após a sessão.
 - [ ] Revisar este conteúdo na próxima semana.
 - [ ] Em outra sessão de Português, retomar ortografia e agente da passiva, também apontados no diagnóstico.
