@@ -3,6 +3,7 @@ description: Gera questões de fixação no estilo de banca com correção comen
 agent: agent
 ---
 Leia `Projeto_Concurso_2028_Contexto_atualizado.md` na raiz.
+Consulte `revisoes/README.md`, o banco de questões e o caderno de erros.
 
 Disciplina/assunto: ${input:assunto}
 Quantidade: ${input:quantidade:10}
@@ -15,3 +16,5 @@ Monte um conjunto misto, com dificuldade gradual, priorizando os pontos fracos r
 - Misture as questões, sem indicar a origem até o gabarito.
 
 Mostre primeiro apenas os enunciados; o gabarito comentado (por que cada alternativa está certa/errada) e a origem de cada questão (real com fonte, ou autoral) vêm após eu responder.
+
+Quando adequado ao objetivo, inclua questões novas ou repita questões já respondidas, inclusive acertadas. A ausência no caderno não exclui questão de exercícios ou simulados. Não revele histórico de desempenho antes das respostas; após a correção, atualize o banco e o caderno conforme `revisoes/README.md`, sem inventar resultados ou causas.

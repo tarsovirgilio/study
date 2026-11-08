@@ -2,9 +2,10 @@
 
 **Disciplina:** Direito Administrativo
 **Data de preparação:** 2026-11-07
-**Duração prevista:** 60 minutos
+**Duração:** 60 minutos
 **Tema:** Administração direta e indireta; distinção entre poder hierárquico e poder regulamentar
-**Status:** Material preparado; estudo pendente
+**Status:** Aula concluída
+**Resultado:** 12/12 questões corretas (seis de fixação e seis autorais em formatos semelhantes aos de bancas)
 
 ## 1. Objetivos
 
@@ -181,10 +182,12 @@ D. A hierarquia organiza relações internas; o regulamento busca viabilizar a e
 5. **C.** O exemplo trata da edição de regulamento para a execução da lei, conforme o art. 84, IV, da Constituição Federal.
 6. **D.** A alternativa distingue corretamente os focos: coordenação interna e execução da lei. As demais confundem órgão com entidade ou atribuem ao regulamento poder para contrariar a lei.
 
+**Resultado do aluno:** acertou 6/6 questões de fixação e 6/6 questões autorais em formatos semelhantes aos de bancas — 12/12 no total. Nenhum erro a registrar nesta aula. A dúvida sobre supervisão finalística foi esclarecida durante a correção.
+
 ## 11. Próxima revisão e próxima aula
 
-- Revisar na próxima semana os conceitos de órgão/entidade, desconcentração/descentralização e a diferença entre poder hierárquico e regulamentar.
-- Na próxima sessão de Direito Administrativo, retomar os erros desta aula e avançar para o próximo conteúdo do ciclo.
+- Revisar na próxima semana os conceitos de órgão/entidade, desconcentração/descentralização e a diferença entre poder hierárquico e regulamentar; não houve erro nas questões desta aula.
+- Na próxima sessão de Direito Administrativo, fazer uma revisão breve destes conceitos e avançar para o próximo conteúdo do ciclo.
 
 ## 12. Fontes oficiais
 

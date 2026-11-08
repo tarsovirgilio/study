@@ -26,6 +26,10 @@ Este repositório não contém código: é o acompanhamento versionado de um pla
 - Nunca inventar questões de provas anteriores nem atribuir questões autorais a bancas; em questões reais, citar banca/concurso/ano.
 - Editais: verificar requisitos (escolaridade, área de formação, experiência) em fonte oficial; o tecnólogo em Gestão de TI não habilita automaticamente em todo cargo.
 
+## Questões e revisão
+- Consulte `revisoes/README.md`, o banco e o caderno ao preparar aulas, questões, revisões e simulados. Questões acertadas podem reaparecer; a ausência no caderno de erros não exclui nenhuma questão de simulados. Questões novas também podem ser propostas.
+- Após a correção, atualize o histórico conhecido no banco e registre erros ou respostas incompletas no caderno, sem inventar resultados, causas ou enunciados. Não revele gabarito nem histórico antes da resposta; um acerto isolado não comprova domínio ou ausência de chute.
+
 ## Convenções do repositório
 - Mantenha um único arquivo de contexto: `Projeto_Concurso_2028_Contexto_atualizado.md`. Em cada atualização, edite esse arquivo e atualize a data indicada nele; não crie cópias datadas. O histórico das versões é mantido pelo Git. Preserve as mesmas seções numeradas.
 - Aulas e resumos gerados ficam em `aulas/<disciplina>/AAAA-MM-DD-<tema>.md`; erros e revisões em `revisoes/`.
