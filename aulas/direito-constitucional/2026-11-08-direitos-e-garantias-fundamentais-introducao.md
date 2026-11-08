@@ -4,7 +4,7 @@
 **Data de preparação:** 2026-11-06\
 **Duração prevista:** 60 minutos\
 **Tema:** Noções iniciais de direitos e garantias fundamentais, igualdade e proteção constitucional da privacidade e dos dados pessoais\
-**Status:** Material preparado; estudo pendente
+**Status:** Aula concluída em 08/11/2026
 
 ## 1. Objetivos
 
@@ -139,14 +139,34 @@ D. Apenas o Poder Judiciário deve respeitar direitos fundamentais.
 
 ## 12. Próximos passos
 
-- [ ] Estudar o conteúdo e responder às questões antes de consultar o gabarito.
-- [ ] Registrar tempo de estudo e resultado das questões na planilha.
+- [x] Estudar o conteúdo e responder às questões.
+- [x] Registrar tempo de estudo e resultado das questões na planilha: 60 minutos; a planilha não foi editada.
 - [ ] Revisar os conceitos desta aula em até uma semana.
 - [ ] Próxima aula: aprofundar direitos e garantias individuais do art. 5º.
 
+## 13. Resultado registrado — 08/11
+
+- Aquecimento: resposta correta ao distinguir fundamentos da República (art. 1º) de objetivos fundamentais (art. 3º), com exemplos pertinentes: soberania e construção de uma sociedade livre, justa e solidária.
+- Questões de fixação: 5/5 corretas.
+- Dúvida conceitual: a aplicação imediata do art. 5º, § 1º, não significa que todos os direitos devam estar materialmente realizados por completo no mesmo instante. Significa que as normas de direitos fundamentais produzem efeitos jurídicos desde já e devem orientar e vincular a atuação estatal, embora o alcance concreto de alguns direitos possa depender de regulamentação, políticas públicas e análise do caso.
+- Nenhum erro ou resposta incompleta foi identificado nesta sessão.
+- Duração realizada: 60 minutos.
+
+## 14. Questões reais adicionais — correção
+
+As cinco questões de prova foram um bloco suplementar e avançaram além do conteúdo ensinado nesta aula. Portanto, o resultado não deve ser interpretado como avaliação da aprendizagem do conteúdo da aula.
+
+| Questão | Resposta | Correção e observação |
+|---|---|---|
+| [Q-DC-012 — Q3105370](https://www.qconcursos.com/questoes-de-concursos/questoes/2f70ace3-b6) | B | Incorreta. Estrangeiros podem impetrar habeas corpus, mas a petição deve ser apresentada em português; a correta é C. O idioma de apresentação não foi abordado na aula. |
+| [Q-DC-013 — Q3079147](https://www.qconcursos.com/questoes-de-concursos/questoes/6b7915a1-a6) | A | Correta. “Regulamentação infraconstitucional” significa uma lei ou norma abaixo da Constituição. O item afirma que a proteção constitucional ao direito de reunião tem aplicação imediata e não depende de uma lei municipal para existir; isso não elimina o aviso prévio previsto no art. 5º, XVI. |
+| [Q-DC-014 — Q1921512](https://www.qconcursos.com/questoes-de-concursos/questoes/cd6b9c32-e6) | C | Incorreta. A correta é D: reunião pacífica em local aberto ao público independe de autorização, observado o aviso prévio e o requisito de não frustrar reunião anterior. A alternativa C mistura igualdade com liberdade de expressão e direito de resposta. |
+| [Q-DC-015 — Q2041124](https://www.qconcursos.com/questoes-de-concursos/questoes/bfbdb7ed-96) | A | Incorreta. O enunciado pede a afirmativa incorreta; a resposta é C. A questão exige teoria dos direitos fundamentais e jurisprudência do STF, conteúdos além desta aula. |
+| [Q-DC-016 — Q4432355](https://www.qconcursos.com/questoes-de-concursos/questoes/859983b0-d7) | E | A alternativa E reproduz corretamente a regra de inviolabilidade domiciliar e suas exceções (art. 5º, XI). A página do QConcursos indica D, mas o texto da alternativa D exige autorização prévia para reunião, contrariando o art. 5º, XVI; além disso, o comentário da página descreve D como se dissesse o contrário. Resultado registrado como divergência da fonte, não como erro do aluno. |
+
 ## Referências legais
 
-- Constituição da República Federativa do Brasil de 1988, arts. 5º, caput, incisos I, X, LXVIII e LXXIX, e § 1º.
+- Constituição da República Federativa do Brasil de 1988, arts. 5º, caput, incisos I, IV, V, X, XI, XVI, LXVIII e LXXIX, e § 1º; art. 13.
 - Emenda Constitucional nº 115/2022.
 - Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais).
 - Texto constitucional no [Portal da Legislação — Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).

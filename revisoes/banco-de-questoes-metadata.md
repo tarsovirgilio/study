@@ -47,6 +47,30 @@ Origem: [introdução a Direito Constitucional](../aulas/direito-constitucional/
 | Q-DC-005 | 5 | Redução de desigualdades | 05/11: acerto. |
 | Q-DC-006 | 6 | Exercício do poder pelo povo | 05/11: acerto. |
 
+### Aula de 08/11 — direitos e garantias fundamentais
+
+Origem: [direitos e garantias fundamentais](../aulas/direito-constitucional/2026-11-08-direitos-e-garantias-fundamentais-introducao.md#10-questões-de-fixação). Questões autorais; resultado registrado: 5/5.
+
+| ID | Questão | Tema | Histórico conhecido |
+|---|---:|---|---|
+| Q-DC-007 | 1 | Localização dos direitos fundamentais na Constituição | 08/11: acerto. |
+| Q-DC-008 | 2 | Habeas corpus como garantia | 08/11: acerto. |
+| Q-DC-009 | 3 | Intimidade e vida privada | 08/11: acerto. |
+| Q-DC-010 | 4 | Proteção constitucional de dados pessoais | 08/11: acerto. |
+| Q-DC-011 | 5 | Aplicação imediata dos direitos fundamentais | 08/11: acerto. |
+
+### Questões reais adicionais de 08/11
+
+Questões de provas; as respostas foram dadas após a aula. O bloco incluiu temas e nível de detalhe não ensinados na sessão. Enunciados e alternativas completos permanecem nas fontes externas.
+
+| ID | Questão externa | Origem | Tema | Histórico conhecido |
+|---|---|---|---|---|
+| Q-DC-012 | [Q3105370](https://www.qconcursos.com/questoes-de-concursos/questoes/2f70ace3-b6) | Instituto Consulplan, 2023, CORE-PA — Assistente Jurídico | Habeas corpus; legitimidade e idioma | 08/11: marcou B; incorreta, gabarito da plataforma C. Estrangeiros podem impetrar habeas corpus, mas a petição deve ser apresentada em português. |
+| Q-DC-013 | [Q3079147](https://www.qconcursos.com/questoes-de-concursos/questoes/6b7915a1-a6) | IDESG, 2024, Câmara de Areal-RJ — Procurador | Aplicabilidade imediata e direito de reunião | 08/11: marcou A; acerto. |
+| Q-DC-014 | [Q1921512](https://www.qconcursos.com/questoes-de-concursos/questoes/cd6b9c32-e6) | AMAUC, 2022, Prefeitura de Jaborá-SC — Auxiliar Administrativo | Direitos do art. 5º; liberdade de expressão e reunião | 08/11: marcou C; incorreta, gabarito D. |
+| Q-DC-015 | [Q2041124](https://www.qconcursos.com/questoes-de-concursos/questoes/bfbdb7ed-96) | UFMT, 2022, Prefeitura de Nobres-MT — Procurador Municipal | Teoria dos direitos fundamentais; proteção de dados | 08/11: marcou A; incorreta, gabarito C. A questão pede a afirmativa incorreta e exige conteúdo além da aula. |
+| Q-DC-016 | [Q4432355](https://www.qconcursos.com/questoes-de-concursos/questoes/859983b0-d7) | IDECAN, 2026, Câmara de Trindade-GO — Técnico Legislativo / Agente de Segurança Institucional | Reunião e inviolabilidade domiciliar | 08/11: marcou E. A alternativa reproduz o art. 5º, XI; a plataforma indica D, mas D exige autorização prévia para reunião, em desacordo com o art. 5º, XVI, e o comentário da página não corresponde ao texto da alternativa. Gabarito/fonte divergente; não classificar como erro do aluno. |
+
 ## Língua Portuguesa
 
 ### Aula registrada em 06/11
@@ -63,6 +87,7 @@ Origem: [pontuação em orações adjetivas](../aulas/portugues/2026-11-06-pontu
 
 ## Outras questões e continuidade
 
-- A [aula preparada para 08/11](../aulas/direito-constitucional/2026-11-08-direitos-e-garantias-fundamentais-introducao.md#10-questões-de-fixação) contém cinco questões ainda não registradas como respondidas. Não presumir tentativas ou resultados; atribuir IDs quando forem utilizadas.
+- A [aula de 08/11](../aulas/direito-constitucional/2026-11-08-direitos-e-garantias-fundamentais-introducao.md#10-questões-de-fixação) foi respondida: Q-DC-007 a Q-DC-011, todas corretas.
+- O bloco suplementar de questões reais Q-DC-012 a Q-DC-016 foi respondido em 08/11. Consultar a tabela acima e a seção de correção na aula; não usar esse conjunto, que excedeu o conteúdo ministrado, como avaliação da aula.
 - Não há enunciados individuais recuperáveis das questões de TI do diagnóstico neste repositório.
 - Para novas tentativas, acrescente ao histórico do ID a data e o resultado; se houver erro ou resposta incompleta, crie ou atualize a entrada correspondente no caderno. Preserve o histórico anterior.

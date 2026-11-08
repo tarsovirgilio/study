@@ -41,6 +41,40 @@ O contexto registra **três erros em Direito Administrativo e três em Portuguê
 | Português | Ortografia | Grafias registradas no diagnóstico: **exceção**, **análise** e **privilégio**. | Retomar na próxima sessão de Português. |
 | Português | Agente da passiva | Na voz passiva, é o termo que indica quem pratica a ação expressa pelo verbo: em “o relatório foi revisado pela equipe”, “pela equipe” é o agente da passiva. | Retomar na próxima sessão de Português. |
 
+## Questões reais adicionais de Direito Constitucional — 08/11
+
+O bloco incluía temas e detalhes não ensinados na aula introdutória. As correções abaixo registram as respostas e conceitos, mas não caracterizam uma deficiência no conteúdo ministrado.
+
+### E-DC-001 — Habeas corpus impetrado por estrangeiro e idioma
+
+- **Questão:** [Q-DC-012 — Q3105370](banco-de-questoes-metadata.md#questões-reais-adicionais-de-0811).
+- **Data e resposta:** 08/11; marcou B.
+- **O que ocorreu:** a alternativa afirma que o estrangeiro pode impetrar habeas corpus em sua língua de origem.
+- **Correção:** estrangeiros podem impetrar habeas corpus; a petição, contudo, deve ser apresentada em português, idioma oficial da República (CF, art. 13). A alternativa correta da questão era C.
+- **Causa:** o usuário indicou que não se lembrava de a aula tratar da possibilidade de estrangeiro impetrar habeas corpus em sua língua. O tema e o idioma processual não haviam sido ensinados na aula.
+- **Revisão:** retomar quando estudar remédios constitucionais.
+- **Status:** pendente de revisão.
+
+### E-DC-002 — Igualdade, manifestação do pensamento e reunião
+
+- **Questão:** [Q-DC-014 — Q1921512](banco-de-questoes-metadata.md#questões-reais-adicionais-de-0811).
+- **Data e resposta:** 08/11; marcou C.
+- **O que ocorreu:** a alternativa C atribui ao princípio da igualdade garantias que correspondem à manifestação do pensamento e ao direito de resposta.
+- **Correção:** a correta era D, sobre reunião pacífica em local aberto ao público, que independe de autorização, observado o prévio aviso e os demais requisitos constitucionais (CF, art. 5º, XVI). Liberdade de manifestação do pensamento e direito de resposta estão nos incisos IV e V.
+- **Causa:** não registrada.
+- **Revisão:** retomar após estudar liberdade de expressão e direito de reunião.
+- **Status:** pendente de revisão; ambos os assuntos excederam o conteúdo da aula introdutória.
+
+### E-DC-003 — Questão sobre teoria dos direitos fundamentais
+
+- **Questão:** [Q-DC-015 — Q2041124](banco-de-questoes-metadata.md#questões-reais-adicionais-de-0811).
+- **Data e resposta:** 08/11; marcou A.
+- **O que ocorreu:** a questão pedia a afirmativa incorreta; a resposta era C.
+- **Correção:** a alternativa C extrapola ao afirmar que um julgamento do STF sobre a anterioridade tributária teria definido o conceito material de direito fundamental. O reconhecimento de um princípio fora do catálogo do art. 5º como direito fundamental não equivale, por si só, a uma definição geral desse conceito.
+- **Causa:** não registrada.
+- **Revisão:** estudar em bloco futuro de teoria dos direitos fundamentais e jurisprudência do STF.
+- **Status:** pendente; conteúdo avançado e não ensinado na aula.
+
 ## Modelo para novas entradas
 
 ```markdown
