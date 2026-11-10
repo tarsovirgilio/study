@@ -85,9 +85,35 @@ Origem: [pontuação em orações adjetivas](../aulas/portugues/2026-11-06-pontu
 | Q-PO-004 | 4 | Pontuação da oração restritiva | 06/11: acerto. |
 | Q-PO-005 | 5 | Oração explicativa | 06/11: acerto. |
 
+## Engenharia de Software
+
+### Aula de 09/11 — fundamentos e ciclo de vida
+
+Origem: [fundamentos de Engenharia de Software e ciclo de vida](../aulas/engenharia-de-software/2026-11-09-fundamentos-e-ciclo-de-vida.md#9-questões-de-fixação). Questões autorais.
+
+| ID | Questão | Tema | Histórico conhecido |
+|---|---:|---|---|
+| Q-ES-001 | 1 | Verificação e validação | 09/11: acerto (B); justificou que conformidade com a especificação não confirma, por si só, atendimento à necessidade. |
+| Q-ES-002 | 2 | Requisitos funcionais e não funcionais | 09/11: acerto (C). |
+| Q-ES-003 | 3 | Processos incremental e iterativo | 09/11: acerto (A). |
+
+## Banco de Dados
+
+### Aula de 09/11 — modelo relacional e chaves
+
+Origem: [modelo relacional e chaves](../aulas/banco-de-dados/2026-11-09-modelo-relacional-e-chaves.md#10-questões-de-fixação). Questões autorais.
+
+| ID | Questão | Tema | Histórico conhecido |
+|---|---:|---|---|
+| Q-BD-001 | 1 | Tupla | 09/11: acerto (C). |
+| Q-BD-002 | 2 | Chave estrangeira | 09/11: acerto (B). |
+| Q-BD-003 | 3 | Integridade referencial | 09/11: acerto (B). |
+
 ## Outras questões e continuidade
 
 - A [aula de 08/11](../aulas/direito-constitucional/2026-11-08-direitos-e-garantias-fundamentais-introducao.md#10-questões-de-fixação) foi respondida: Q-DC-007 a Q-DC-011, todas corretas.
 - O bloco suplementar de questões reais Q-DC-012 a Q-DC-016 foi respondido em 08/11. Consultar a tabela acima e a seção de correção na aula; não usar esse conjunto, que excedeu o conteúdo ministrado, como avaliação da aula.
 - Não há enunciados individuais recuperáveis das questões de TI do diagnóstico neste repositório.
+- As questões Q-ES-001 a Q-ES-003 foram respondidas em 09/11; resultado: 3/3.
+- As questões Q-BD-001 a Q-BD-003 foram respondidas em 09/11; resultado: 3/3.
 - Para novas tentativas, acrescente ao histórico do ID a data e o resultado; se houver erro ou resposta incompleta, crie ou atualize a entrada correspondente no caderno. Preserve o histórico anterior.

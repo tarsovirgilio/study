@@ -5,7 +5,7 @@
 - **Data da sessão:** 2026-11-09
 - **Duração prevista:** 45 minutos
 - **Tema:** Conceito de Engenharia de Software, ciclo de vida, requisitos e processos de desenvolvimento
-- **Status:** Material preparado; estudo pendente
+- **Status:** Conteúdo ministrado; 45 minutos registrados; questões respondidas e corrigidas.
 
 ## 1. Objetivos
 
@@ -171,6 +171,6 @@ Em um projeto, cada versão acrescenta novas capacidades ao sistema; depois, as 
 
 ## 10. Registro e continuidade
 
-- [ ] Anotar o tempo efetivamente dedicado a esta parte da sessão.
-- [ ] Responder às três questões e registrar o resultado após a correção.
+- [x] Anotar o tempo efetivamente dedicado a esta parte da sessão: 45 minutos, registrados na planilha.
+- [x] Responder às três questões e registrar o resultado após a correção.
 - [ ] Próximo passo sugerido: aprofundar requisitos, casos de uso e modelagem, conforme a evolução da turma.

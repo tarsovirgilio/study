@@ -5,7 +5,7 @@
 - **Data da sessão:** 2026-11-09
 - **Duração prevista:** 45 minutos
 - **Tema:** Relações, atributos, tuplas, esquemas, chaves e integridade referencial
-- **Status:** Material preparado; estudo pendente
+- **Status:** Conteúdo ministrado; 45 minutos registrados; questões respondidas e corrigidas.
 
 Esta parte compõe, com a aula de [Fundamentos de Engenharia de Software e ciclo de vida](../engenharia-de-software/2026-11-09-fundamentos-e-ciclo-de-vida.md), a sessão de TI de segunda-feira, com 90 minutos previstos.
 
@@ -168,6 +168,6 @@ Uma inserção em `PEDIDO` informa um `id_cliente` que não existe em `CLIENTE`,
 
 ## 11. Registro e continuidade
 
-- [ ] Anotar o tempo efetivamente dedicado a esta parte da sessão.
-- [ ] Responder às três questões e registrar o resultado após a correção.
+- [x] Anotar o tempo efetivamente dedicado a esta parte da sessão: 45 minutos, registrados na planilha.
+- [x] Responder às três questões e registrar o resultado após a correção.
 - [ ] Próximo passo sugerido: praticar consultas SQL básicas e aprofundar relacionamentos e normalização gradualmente.
